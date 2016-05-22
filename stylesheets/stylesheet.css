@@ -300,7 +300,7 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
-  background: url('../images/pexels-photo-62277.jpeg') ##b000ee no-repeat 20% 20%;
+  background: url('../images/pexels-photo-62277.jpeg') #b000ee no-repeat 20% 20%;
 
 }
 
