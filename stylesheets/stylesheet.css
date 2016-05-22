@@ -52,7 +52,7 @@ body {
   box-sizing: border-box;
   color:#b000ee;
   background: #b000ee;
-  font-size: 14px;
+  font-size: 18px;
   font-family: 'Avenir', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -80,23 +80,27 @@ h2 {
 }
 
 h3 {
-  position: center;
-  font-size: 18px;
+ position: center;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 h4 {
-  position: center;
-  font-size: 21px;
+ position: center;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 h5 {
-  position: center;
-  font-size: 18px;
+ position: center;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 h6 {
-  position: center;
-  font-size: 16px;
+ position: center;
+  font-size: 20px;
+  font-weight: 300;
 }
 
 p {
@@ -148,7 +152,7 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-  border: 5px solid #b000ee;
+  border: 3px solid #b000ee;
 
   box-shadow: 0 0 5px #ebebeb;
   -webkit-box-shadow: 0 0 5px #ebebeb;
