@@ -94,7 +94,9 @@ h6 {
 }
 
 p {
-  margin: 10px 0 15px 0;
+  font-size: 10px;
+  margin: 10px 0 12px 0
+  
 }
 
 footer p {
@@ -263,14 +265,7 @@ form {
 Full-Width Styles
 *******************************************************************************/
 
-.html {
 
-  background: url(pexels-photo-62277.jpeg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
 
 .outer {
   width: 100%;
@@ -305,6 +300,8 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
+  background: url('../images/pexels-photo-62277.jpeg') #0090ff no-repeat 95% 50%;
+
 }
 
 #header_wrap .inner {
