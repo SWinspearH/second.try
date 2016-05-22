@@ -52,7 +52,7 @@ body {
   box-sizing: border-box;
   color:#b000ee;
   background: pink;
-  font-size: 40px;
+  font-size: 24px;
   font-family: 'Proxima Nova', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 34px;
   font-weight: 700;
 }
 
@@ -78,7 +78,7 @@ h2 {
 }
 
 h3 {
-  font-size: 60px;
+  font-size: 32px;
 }
 
 h4 {
