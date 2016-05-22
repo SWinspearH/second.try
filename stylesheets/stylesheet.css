@@ -51,7 +51,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color:#b000ee;
-  background: pink;
+  background: #b000ee;
   font-size: 24px;
   font-family: 'Proxima Nova', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 34px;
+  font-size: 20px;
   font-weight: 700;
 }
 
